@@ -1,4 +1,15 @@
-This app is based on Sonny Sangha's example at https://www.youtube.com/watch?v=a6Xs2Ir40OI.
+This is a photo sharing app where you can sign in using Google OAuth, then write posts and comments which are stored in Firebase and posted on the website.
+
+
+
+
+
+
+
+
+
+
+
 
 Started from 'npx create-next-app --example with-tailwindcss photo'
 
