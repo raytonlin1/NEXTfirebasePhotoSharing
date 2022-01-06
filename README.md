@@ -1,6 +1,8 @@
 This is a photo sharing app where you can sign in using Google OAuth, then write posts and comments which are stored in Firebase and posted on the website.
 
-
+Example pictures:
+https://prnt.sc/26alqdc
+https://prnt.sc/26alrhp
 
 
 
